@@ -37,7 +37,7 @@ Sou um estudante focado no desenvolvimento de software. Busco construir soluçõ
 
 <div>
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EmanuelScapim&show_icons=true&theme=dark&include_all_commits=true&count_private=true&" alt="GitHub Stats" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelScapim&layout=donut&theme=dark&include_all_commits=true" alt="Top Langs" />
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EmanuelScapim&layout=donut&theme=dark&include_all_commits=true" alt="Top Langs" />
 </div>
 
 ---
