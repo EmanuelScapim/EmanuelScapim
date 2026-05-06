@@ -6,7 +6,7 @@ Sou um estudante focado no desenvolvimento de software. Busco construir soluçõ
 
 ---
 
-### ⌨️ Principais lingagens
+### ⌨️ Principais linguagens
 
 
 <div>
