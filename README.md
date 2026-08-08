@@ -1,6 +1,6 @@
 # Emanuel Rodrigues Rosa Scapim
 
-### **`🎓 Engenharia de Software Unileste`**
+### **`🎓 Ciência da computação`**
 
 Sou um estudante focado no desenvolvimento de software. Busco construir soluções escaláveis e de alto desempenho que melhoram a experiência do usuário.
 
